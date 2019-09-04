@@ -2,9 +2,6 @@
 
 # Version:1.0
 
-'''if the M length is low than the max primer length
-   abandon this junction
-'''
 ###################################################################
 # File Name: star-junction.Match_length.py
 # Author: yys
